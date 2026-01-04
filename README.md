@@ -22,7 +22,7 @@
 
 ### For Users
 1. Download the latest version from the **[Releases](https://github.com/taurinexd/RadShare-Helper/releases)** page.
-2. Run the installer or the portable version.
+2. Run the portable version.
 3. Search for your relic, select its state, and click **Copy** to prepare the message for the Warframe Recruiting channel.
 
 ### For Developers
