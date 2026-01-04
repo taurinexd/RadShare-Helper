@@ -77,7 +77,7 @@ export function AboutModal({ isOpen, onClose }: AboutModalProps) {
                 </div>
 
                 <div className="p-4 bg-zinc-800/30 text-center">
-                    <p className="text-xs text-zinc-500 font-mono">v0.1.0-alpha • Created by taurinexd</p>
+                    <p className="text-xs text-zinc-500 font-mono">v1.0.0 • Created by taurinexd</p>
                 </div>
             </div>
         </div>

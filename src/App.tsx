@@ -73,7 +73,7 @@ function App() {
               </div>
               <div>
                 <h1 className="text-xl font-bold tracking-tight">RadShare Helper</h1>
-                <p className="text-[10px] text-zinc-500 font-mono text-center">v0.1.0-alpha</p>
+                <p className="text-[10px] text-zinc-500 font-mono text-center">v1.0.0</p>
               </div>
             </div>
             <SearchBar
