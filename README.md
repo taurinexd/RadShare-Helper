@@ -12,12 +12,12 @@
 ## ✨ Features
 
 - **Relic Database**: Instantly find any relic (Lith, Meso, Neo, Axi, Requiem, Vanguard).
-- **One-Click Copy**: Automatically formats recruiting messages for your selected relic and state.
+- **One-Click Format & Copy**: Automatically prepares and copies recruiting messages for your selected relic and state.
 - **State Toggles**: Quickly switch between **Intact (I)**, **Exceptional (E)**, **Flawless (F)**, and **Radiant (R)**.
-- **Host Mode & Cycle Counting**: 
-  - Tracks host cycles (e.g., [4/4]) to help you manage your group.
-  - Automatically resets after 4 invites.
-  - Adds a small delay between copies to prevent chat spam blocks.
+- **Host & Cycle Management**: 
+  - **Manual Cycle Counter**: Tracks your invites (e.g., `[4/4]`) and appends it to your message.
+  - **Copy Delay**: Adds a small internal delay after clicking "Copy" to help you space out your manual pastes and avoid chat spam filters.
+  - **Auto-Reset**: The counter resets automatically after 4 copies to help you manage a full group cycle.
 - **Modern UI**: Clean, responsive dark mode interface designed for gamers.
 
 ## 🚀 Getting Started
@@ -25,7 +25,7 @@
 ### For Users
 1. Download the latest version from the **[Releases](https://github.com/taurinexd/radshare/releases)** page.
 2. Run the installer or the portable version.
-3. Search for your relic, select its state, and click **Copy** to share in the Warframe Recruiting channel.
+3. Search for your relic, select its state, and click **Copy** to prepare the message for the Warframe Recruiting channel.
 
 ### For Developers
 If you want to run the project from source:
