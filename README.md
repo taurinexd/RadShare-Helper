@@ -1,6 +1,11 @@
-# RadShare Helper 🛡️
+# RadShare Helper
 
-![RadShare Helper Preview](file:///c:/Users/Tauro/Documents/GitHub/radshare/screenshots/app_preview.png)
+[![Warframe](https://img.shields.io/badge/Warframe-Void--Relics-9e42f5?style=flat-square)](https://www.warframe.com/)
+[![GitHub license](https://img.shields.io/github/license/taurinexd/radshare?style=flat-square)](https://github.com/taurinexd/radshare/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/taurinexd/radshare?style=flat-square)](https://github.com/taurinexd/radshare/stargazers)
+[![PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=flat-square&logo=paypal)](https://www.paypal.com/paypalme/mmtaurine)
+
+![RadShare Helper Preview](screenshots/app_preview.png)
 
 **RadShare Helper** is a lightweight desktop application designed to streamline recruiting for Void Relic runs in Warframe. It simplifies writing and sharing specific recruiting messages in the **Recruiting channel**, ensuring accuracy and speed.
 
