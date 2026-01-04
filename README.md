@@ -1,8 +1,8 @@
 # RadShare Helper
 
 [![Warframe](https://img.shields.io/badge/Warframe-Void--Relics-9e42f5?style=flat-square)](https://www.warframe.com/)
-[![GitHub license](https://img.shields.io/github/license/taurinexd/radshare?style=flat-square)](https://github.com/taurinexd/radshare/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/taurinexd/radshare?style=flat-square)](https://github.com/taurinexd/radshare/stargazers)
+[![GitHub license](https://img.shields.io/github/license/taurinexd/RadShare-Helper?style=flat-square)](https://github.com/taurinexd/RadShare-Helper/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/taurinexd/RadShare-Helper?style=flat-square)](https://github.com/taurinexd/RadShare-Helper/stargazers)
 [![PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=flat-square&logo=paypal)](https://www.paypal.com/paypalme/mmtaurine)
 
 ![RadShare Helper Preview](screenshots/app_preview.png)
@@ -21,7 +21,7 @@
 ## 🚀 Getting Started
 
 ### For Users
-1. Download the latest version from the **[Releases](https://github.com/taurinexd/radshare/releases)** page.
+1. Download the latest version from the **[Releases](https://github.com/taurinexd/RadShare-Helper/releases)** page.
 2. Run the installer or the portable version.
 3. Search for your relic, select its state, and click **Copy** to prepare the message for the Warframe Recruiting channel.
 
