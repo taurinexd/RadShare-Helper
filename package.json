@@ -2,6 +2,8 @@
   "name": "radshare-app",
   "private": true,
   "version": "1.0.0",
+  "description": "A lightweight tool to streamline recruiting for Void Relic runs in Warframe.",
+  "author": "taurinexd <https://github.com/taurinexd>",
   "main": "dist-electron/main.js",
   "type": "module",
   "scripts": {
