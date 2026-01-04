@@ -16,9 +16,7 @@
 - **State Toggles**: Quickly switch between **Intact (I)**, **Exceptional (E)**, **Flawless (F)**, and **Radiant (R)**.
 - **Host & Cycle Management**: 
   - **Manual Cycle Counter**: Tracks your invites (e.g., `[4/4]`) and appends it to your message.
-  - **Copy Delay**: Adds a small internal delay after clicking "Copy" to help you space out your manual pastes and avoid chat spam filters.
   - **Auto-Reset**: The counter resets automatically after 4 copies to help you manage a full group cycle.
-- **Modern UI**: Clean, responsive dark mode interface designed for gamers.
 
 ## 🚀 Getting Started
 
